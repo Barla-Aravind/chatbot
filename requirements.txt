@@ -1,0 +1,18 @@
+# Backend Dependencies
+fastapi
+uvicorn
+pinecone-client
+cohere
+python-dotenv
+PyPDF2
+numpy
+pydantic
+python-multipart
+
+# Frontend Dependencies
+streamlit
+requests
+
+# # Optional: For advanced text processing
+spacy
+scikit-learn

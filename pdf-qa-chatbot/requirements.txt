@@ -1,0 +1,14 @@
+# Backend
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+cohere
+pinecone-client
+python-dotenv
+numpy
+scikit-learn
+
+# Frontend
+streamlit
+requests
